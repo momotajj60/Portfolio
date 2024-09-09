@@ -1,0 +1,329 @@
+*{
+    margin: 0;
+}
+.body{
+    font-family:open sans", sans-serif ;
+}
+.my-head{
+    background-color: #FFF8F3;
+    background-image: url('images/header_bg.png'),url('images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,bottom left;
+}
+.button-5{
+    background-color: #FD6E0A;
+    padding: 10px;
+    border-radius:5px ;
+    border: none; 
+    margin-right: 20px;
+    margin-top: 30px;
+    color: white;
+    }
+    .mon{
+        font-weight: 700;
+        font-size: 85px;
+    }   
+    .fg2{
+        margin-left: 10px;
+        border-radius: 5px;
+    }
+    .fg1{
+        padding:10px ;
+        margin-right: 20px;
+        background-color: #FFF8F3;
+        border:1px solid #FD6E0A;
+        border-radius: 5px;
+        color: #FD6E0A;
+    }  
+.title{
+    font-size: 45px;
+    font: weight 800;
+}
+.d-button{
+    margin-left: 10px; 
+}
+ .mary-nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.sojakor{
+    display: flex;
+    list-style: none; 
+    align-items: center;
+}
+.primary-color{
+    
+    color:#FD6E0A ;
+}
+.baba{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    
+}
+.baba2{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+ul li{
+    margin-right: 50px;
+}
+
+li a{
+    text-decoration: none;
+    color: #474747;
+}
+.btn-primary{
+    
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.semi{
+    font-size: 45px;
+    font-weight: 600;
+    padding-bottom: 0px;
+    }
+    .fg{
+        margin-left: 13px;
+    }
+    .fg1{
+        margin-left: 10px;
+    }
+.bold{
+    margin: 5px 0px 20px 0px;
+    padding-top: 0px;
+    font-size:20px ;
+    font-weight: 700;  
+}
+/*Hardy vai er kaj kam */
+.Mary-hardy{
+    display: flex;
+    align-items: center;
+    padding: 40px 30px 0px 200px;
+
+    
+}
+ /*About me*/
+ .main first section{
+    background-color: #FFF8F3;
+    padding: 130px 150px;
+    margin: 130px 230px;
+    text-align: center;
+    /*height:550px;
+    width:1140px;
+    margin:auto;*/
+ }
+ .jk{
+    margin-top: 30px;
+ }
+
+ .c-button{
+    border: #FD6E0A;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    
+ }
+ .p-tag{
+    font-weight: 400;
+    font-size: 18;
+    color: #757575;
+ }
+ .d-button{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+ }
+ /*About section*/
+ .main-first-section{
+    background-color: #FFF8F3;
+    padding: 130px 150px;
+    margin: 130px 230px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid green;
+    /*height:550px;
+    width:1140px;
+    margin:auto;*/
+ }
+ 
+ .about-me-section{
+    display: flex;
+    justify-content: space-around;
+ }
+ /*what I Do*/
+
+ .What-I-do{
+    
+    margin: 0px 200px 130px;
+ }
+ .What-I-do-sub{
+    margin: 0px 115px;
+    text-align: center;
+ }
+ .momo{
+    
+    margin-bottom: 30px;
+   font-weight: 700;
+   font-size: 35px;
+ }
+ .Il{
+    margin-top: 30px;
+ }
+
+ .box{
+   /*border: 2px solid green ;*/
+   border-radius: 5px;
+   background-color: #ffffff;
+   padding: 30px;
+   margin-right: 24px;
+   box-shadow: 0px 6px 50px 0px rgba(0,0,0,.06);
+   box-shadow: #ffffff;
+ }
+ 
+.ggg{
+    display: flex;
+    margin-top: 50px;
+}
+/*Resume */
+.resume{
+    margin: 0px 200px 130px 200px;
+}
+.resume-div{
+    display: flex;
+}
+.do{
+    background-color: #FD6E0A;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    margin-top: 50px;
+    width: 200px;
+    height: 64px;
+    padding: 5px;
+    }
+.ajan{
+    margin-left: 300px;
+    margin-bottom: 86px;
+    font-size: 35px;
+
+}
+.MN{
+    margin-right:609px;
+margin-left: 709px;
+
+}
+.baro{
+    display: flex;
+    
+}
+.akta{
+    border-radius: 5px;
+background-color:  #FD6E0A;
+color: #ffffff;
+border: none;
+margin-left: 24px;
+width: 150px;
+height: 64px;
+
+}
+.faka{
+    margin-left: 117px;
+    height: 45px;
+    
+}
+.baysi{
+    margin-left:120px;
+    height: 50px;
+}
+.dur{
+    margin-left: 120px;
+    height: 50px;
+    
+}
+.aktu dur{
+    margin-left: 120px;
+    height: 50pxpx;
+    
+}
+.O{
+    margin-bottom: 24px;
+    color: #474747;
+    font-size: 30px;
+}
+.P{
+    margin-bottom:10px ;
+    color: #757575;
+    font-size: 25px;
+}
+.Q{
+    margin-bottom:20px ;
+    color: #757575;
+    font-size:20px;
+}
+.edu{
+    margin-right: 50px;
+
+}
+.po{
+    margin-bottom:  24px;
+    color: #474747;
+    font-size: 30px;
+}
+.JK{
+    margin-bottom: 10px;
+    color: #757575;
+    font-size: 25px;
+}
+.LP{
+    margin-bottom: 20px;
+    color: #757575;
+    font-size: 20px;
+
+}
+.pra{
+    margin-bottom: 30px;
+}
+.grap{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+
